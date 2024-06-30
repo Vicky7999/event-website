@@ -1,0 +1,508 @@
+
+.navbar {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  color: aliceblue;
+}
+.nav1 {
+  height: 100%;
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav2 {
+  height: 100%;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+}
+.nav3 {
+  height: 100%;
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav3 button {
+  margin-left: 10%;
+  padding: 3px 10px;
+  border-radius: 10px;
+}
+.content {
+  height: 105vh;
+  width: 100%;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/022/276/128/large_2x/festive-background-garland-bokeh-generative-ai-free-photo.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  color: aliceblue;
+}
+.con1 button {
+  margin-left: 60%;
+  display: flex;
+  border: 1x solid;
+  border-color: black;
+  justify-content: center;
+  align-items: center;
+  background-color: orangered;
+  border-radius: 10px;
+}
+.con1 {
+  height: 30vh;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.con1 h1 {
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: row;
+  color: aliceblue;
+  font-style: italic;
+}
+.con1 h3 {
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: black;
+}
+.con2 {
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background-color: antiquewhite;
+}
+.box {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.box1 {
+  height: 50%;
+  width: 15%;
+  display: flex;
+  border: 1px solid;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 10%;
+  border-radius: 10%;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpsKJwX8QVWhZ8uN9-7nQoxK62OZcY3wzcQ&s);
+  background-size: cover;
+  color: aliceblue;
+}
+.box1 h4 {
+  margin-left: 10%;
+}
+
+.box2 {
+  height: 50%;
+  width: 15%;
+  display: flex;
+  border: 1px solid;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 10%;
+  background-image: url(https://images.freeimages.com/images/large-previews/b5a/wedding-rings-1313142.jpg?fmt=webp&w=500);
+  color: aliceblue;
+}
+.box2 h4 {
+  margin-left: 10%;
+}
+.box3 {
+  height: 50%;
+  width: 15%;
+  display: flex;
+  border: 1px solid;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 10%;
+  background-image: url(https://www.shutterstock.com/image-photo/indian-couple-posing-maternity-shoot-260nw-2396345343.jpg);
+  color: aliceblue;
+}
+.box3 h4 {
+  margin-left: 10%;
+}
+.box4 {
+  height: 50%;
+  width: 15%;
+  display: flex;
+  border: 1px solid;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 10%;
+  border-radius: 10%;
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20220128/pngtree-traditional-indian-hindu-family-ear-piercing-ceremony-south-sanskar-pierced-photo-image_21207980.jpg);
+  color: aliceblue;
+}
+.box h4 {
+  margin-left: 10%;
+}
+.con3 {
+  height: 95vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://images.pexels.com/photos/1526/dark-blur-blurred-gradient.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box5 {
+  height: 80%;
+  width: 80%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  border: 5px solid;
+  background-color: aliceblue;
+  border-top-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+  border-top-color: orange;
+  border-right-color: blue;
+  border-bottom-color: red;
+  border-left-color: green;
+}
+.box5 h2 {
+  margin-left: 5%;
+}
+.nav4 {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(https://img.goodfon.com/wallpaper/big/9/3e/winter-snow-christmas-snowflakes-background-frame-white-snez.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.con4 {
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  background-image: url(https://img.goodfon.com/wallpaper/big/9/3e/winter-snow-christmas-snowflakes-background-frame-white-snez.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: -100px;
+}
+.box7 {
+  height: 63%;
+  width: 13%;
+  display: flex;
+  margin-left: 10%;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6SBFO_34s3mUw1zz2SuAVXn83OArtd8D9GQ&s);
+  background-repeat: no-repeat;
+  background-size: 100% 80%;
+  border-radius: 10px;
+}
+.box7 h2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-left: 10%;
+}
+.box8 {
+  height: 63%;
+  width: 13%;
+  display: flex;
+  background-image: url(https://m.media-amazon.com/images/M/MV5BMjE4ODMzMjc4MV5BMl5BanBnXkFtZTcwNDIyMjgxOA@@._V1_.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 80%;
+  border-radius: 10px;
+}
+.box8 h2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-left: 10%;
+}
+.box9 {
+  height: 63%;
+  width: 13%;
+  display: flex;
+  background-image: url(https://www.wrestlinginc.com/img/gallery/wwes-roman-reigns-grateful-for-support-following-loss-of-his-father-sika-anoai/intro-1719417118.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 80%;
+  border-radius: 10px;
+}
+.box9 h2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-left: 10%;
+}
+.box10 {
+  height: 63%;
+  width: 13%;
+  display: flex;
+  margin-right: 10%;
+  background-image: url(https://411mania.com/wp-content/uploads/2023/04/WWE-Hall-of-Fame-2023-Rey-Mysterio.png);
+  background-repeat: no-repeat;
+  background-size: 100% 80%;
+  border-radius: 10px;
+}
+.box10 h2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-left: 10%;
+}
+.con4 h3 {
+  height: 90%;
+  width: 100%;
+  justify-content: center;
+}
+.con5 {
+  height: 40vh;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  background-color: rgb(78, 77, 77);
+}
+.box11 {
+  height: 30%;
+  width: 10%;
+  border: 2px solid;
+  display: flex;
+  margin-left: 20%;
+  background-image: url(https://pbs.twimg.com/profile_images/1070084370696794112/ecpXIUeY_400x400.jpg);
+  border-radius: 40%;
+  background-size: cover;
+  border-color: yellow;
+}
+.box12 {
+  height: 30%;
+  width: 10%;
+  border: 2px solid;
+  display: flex;
+  margin-left: 40%;
+  background-image: url(https://cdn.wrestletalk.com/wp-content/uploads/2022/02/brock-lesnar-klj.jpg);
+  border-radius: 40%;
+  background-size: cover;
+  border-color: yellow;
+}
+.con6 {
+  height: 45vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgb(78, 77, 77);
+}
+.box13 {
+  height: 80%;
+  width: 40%;
+  border: 1px solid;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-left: 5%;
+  background-color: aliceblue;
+  border-top-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+}
+.box13 h2 {
+  margin-left: 5%;
+}
+.box14 {
+  height: 80%;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10%;
+  background-color: aliceblue;
+  border-top-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+}
+.box14 h2 {
+  margin-left: 5%;
+}
+.nav5 {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: row;
+  background-color: rgb(241, 241, 209);
+}
+.con7 {
+  height: 85vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(241, 241, 209);
+}
+.box15 {
+  height: 80%;
+  width: 20%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 10%;
+  background-image: url(https://www.focuzstudios.in/wp-content/uploads/2017/11/wedding-photography-trichy-tiruchirappalli-tamil-nadu-12.jpg);
+  background-size: 100% 40%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box15 p {
+  margin-left: 8%;
+  margin-top: 70%;
+}
+.box16 {
+  height: 80%;
+  width: 20%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 10%;
+  background-image: url(https://c1.wallpaperflare.com/preview/89/851/708/ring-hastmelap-wedding-marriage-indian-hindu.jpg);
+  background-size: 100% 40%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box16 p {
+  margin-left: 8%;
+  margin-top: 70%;
+}
+.box17 {
+  height: 80%;
+  width: 20%;
+  display: flex;
+  margin-right: 10%;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 10%;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-epQ12fFxK0-_soFH_j7z8rcfIyr7soj_Q&s);
+  background-size: 100% 40%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box17 p {
+  margin-left: 8%;
+  margin-top: 70%;
+}
+.con8 {
+  height: 85vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url(https://thumbs.dreamstime.com/b/silhouette-photo-mountain-sea-3108899.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box18 {
+  height: 90%;
+  width: 20%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  color: white;
+}
+.box18 p {
+  margin-left: 10%;
+}
+.box19 {
+  height: 90%;
+  width: 20%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  color: white;
+}
+.box19 p {
+  margin-left: 10%;
+}
+.box19 li {
+  color: blue;
+  list-style: none;
+}
+.box20 {
+  height: 90%;
+  width: 20%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  color: white;
+}
+.box20 p {
+  margin-left: 10%;
+}
+.box21 {
+  height: 90%;
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  background-image: url(https://cdn1.getprintbox.com/pbx2-minnti/media/productimage/b9117b74-b2f2-48f1-83ad-82b788bb1c0a/A0022%20Square%20Collage%203%20x%203_thumb_900x900?mt=1593524826.279378);
+  background-size: 70% 30%;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+.nav6 {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  background-image: url(https://thumbs.dreamstime.com/b/silhouette-photo-mountain-sea-3108899.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+body button
+{
+  padding: 5px 15px;
+  background-color: black;
+  border: 0;
+  border-radius: 20px;
+  color: #fff;
+  transition: .5s;
+}
+body button:hover
+{
+  background-color: #fff;
+  color: black;
+}
+body input
+{
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 20px;
+  font-size: 18px;
+}
